@@ -8,10 +8,10 @@ Sou um **desenvolvedor** *Front-End* em evolução, com uma paixão por código 
 > * 🚀 Apaixonado por **tecnologias e desenvolvimento**.
 > * 📚 Estudante de **Desenvolvimento Web**.
 > * 📂 Atualmente trabalhando como **Barbeiro**.
-> * 📖 No momento aprendendo sobre **HTML, CSS e JAVASCRIPT**.
+> * 📖 No momento aprendendo sobre **JavaScript**.
 > * 🎯 Foco total em me tornar **Dev FullStack**
 > * 📌 Em busca da minha vaga no **Mercado de Devs**.
-> * 📜 Certificados concluidos **Informática, Barbeiro, Html5 e CSS3**
+> * 📜 Certificados concluidos **Informática, Barbeiro, Html5 e Css3**
 ```
 Section#Documento {
 nome: "MATHEUS SOUZA";
