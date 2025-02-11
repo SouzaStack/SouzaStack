@@ -4,7 +4,14 @@
 
 ### 🆔 Sobre mim
 Sou um **desenvolvedor** *Front-End* em evolução, com uma paixão por código e um objetivo claro: construir soluções web incríveis e eficientes. Minha jornada, que começou com a exploração curiosa de linhas de código, evoluiu para um compromisso sólido em aprimorar minhas habilidades e conhecimentos, com a ambição de me tornar um desenvolvedor *Full-Stack*.
-
+##### Resumo:
+> * 🚀 Apaixonado por **tecnologias e desenvolvimento**.
+> * 📚 Estudante de **Desenvolvimento Web**.
+> * 📂 Atualmente trabalhando como **Barbeiro**.
+> * 📖 No momento aprendendo sobre **HTML, CSS e JAVASCRIPT**.
+> * 🎯 Foco total em me tornar **Dev FullStack**
+> * 📌 Em busca da minha vaga no **Mercado de Devs**.
+> * 📜 Certificados concluidos **Informática, Barbeiro, Html5 e CSS3**
 ```
 Section#Documento {
 nome: "MATHEUS SOUZA";
